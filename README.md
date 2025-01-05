@@ -34,7 +34,7 @@
 ## 🎥 프로젝트 시연 영상
 <div align="center">
   <a href="https://www.youtube.com/watch?v=cWeOfn5hmuQ">
-    <img src="https://img.youtube.com/vi/cWeOfn5hmuQ/0.jpg" alt="프로젝트 시연 영상" width="800">
+    <img src="https://img.youtube.com/vi/cWeOfn5hmuQ/0.jpg" alt="프로젝트 시연 영상" width="400">
   </a>
   <br>
   <a href="https://www.youtube.com/watch?v=cWeOfn5hmuQ" target="_blank" style="text-decoration:none;">
